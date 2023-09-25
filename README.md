@@ -19,4 +19,5 @@ python transaction_data.py
 ### Автор
 
 Яна Курзюкова
-Телеграм @Iana_kurziukova
+
+Телеграм @iana_kurziukova
